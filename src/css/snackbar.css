@@ -1,5 +1,6 @@
 .form {
     width: 360px;
+    margin-left: 156px;
     display: flex;
     flex-direction: column;
     gap: 16px;
@@ -29,7 +30,7 @@ legend {
     text-align: left;
 }
 
-.number-label {
+.form>label{
     display: flex;
     flex-direction: column;
     text-align: left;
